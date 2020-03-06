@@ -8017,6 +8017,7 @@ button.bg-dark:focus {
 .mt-4,
 .my-4 {
   margin-top: 1.5rem !important;
+  font-family: 'Spartan', ;
 }
 
 .mr-4,
@@ -10044,6 +10045,22 @@ a.text-dark:hover, a.text-dark:focus {
     background-color: #000;
   }
 
+}
+.intro-2 {
+    background: url("https://mdbootstrap.com/img/Photos/Others/img (51).jpg")no-repeat center center;
+    background-size: cover;
+}
+.view {
+    margin-top: -56px;
+}
+.navbar {
+    z-index: 1;
+}
+html,
+body,
+header,
+.view {
+    height: 100%;
 }
 
 /*# sourceMappingURL=bootstrap.css.map */
