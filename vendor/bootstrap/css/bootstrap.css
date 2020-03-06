@@ -1048,6 +1048,7 @@ pre code {
     -ms-flex: 0 0 66.666667%;
     flex: 0 0 66.666667%;
     max-width: 66.666667%;
+    font-family: 'Muli', sans-serif;
   }
   .col-md-9 {
     -ms-flex: 0 0 75%;
@@ -8026,8 +8027,7 @@ button.bg-dark:focus {
 
 }
 
-.mb-4,
-.my-4 {
+.mb-4,.my-4 {
   margin-bottom: 1.5rem !important;
   font-family: 'Open Sans Condensed', sans-serif;
 
