@@ -1,0 +1,41 @@
+.socialmedia{
+
+  padding-right: 0em;
+}
+
+.seperator{
+
+  border :solid white;
+  border-width: thin;
+  margin-top : 0.5em;
+  margin-bottom: 0.5em;
+}
+
+.nav-link{
+  font-family: 'Roboto Condensed';
+  font-size: 1.2em;
+  color: white!important;
+}
+
+.navbar-brand{
+  color: white!important;
+  font-weight: bold;
+  font-size: 1.6em;
+
+}
+
+#navbarSocial{
+  padding-right: 1em;
+}
+
+#navbarResponsive .nav-link{
+  margin-right: 1em;
+  font-weight: bold;
+
+}
+
+.navbar{
+  padding-bottom: 0.2em;
+  background: rgb(38,28,150);
+  background: linear-gradient(90deg, rgba(38,28,150,1) 0%, rgba(28,194,221,1) 36%, rgba(65,202,218,1) 99%);
+}
